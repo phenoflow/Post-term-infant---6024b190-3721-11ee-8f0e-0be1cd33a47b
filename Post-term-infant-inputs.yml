@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/post-term-infant-postmature---primary.py
+inputModule3:
+  class: File
+  path: python/postterm---primary.py
+inputModule4:
+  class: File
+  path: python/post-term-infant-heavy-gestational-age---secondary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
