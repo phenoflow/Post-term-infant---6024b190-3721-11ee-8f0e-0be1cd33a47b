@@ -1,0 +1,18 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/post-term-infant-postmature---primary.py
+inputModule3:
+  class: File
+  path: python/postterm---primary.py
+inputModule4:
+  class: File
+  path: python/post-term-infant-heavy-gestational-age---secondary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
